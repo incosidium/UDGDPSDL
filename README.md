@@ -1,4 +1,4 @@
-# Welcome to the Geometry Dash Shitty List template!
+2# Welcome to the Geometry Dash Shitty List template!
 
 # FAQ
 
@@ -46,3 +46,4 @@ What are some common reasons for the website not loading?
 
 - Prometheus
 - Emonadeo
+ 
